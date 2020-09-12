@@ -5,3 +5,4 @@ src-git luci https://github.com/Lienol/openwrt-luci.git;dev-17.01
 src-git diy1 https://github.com/xiaorouji/openwrt-package.git;master
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git clone https://github.com/destan19/OpenAppFilter
+src-git mypackages https://github.com/siropboy/mypackages
